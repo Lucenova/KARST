@@ -16,6 +16,7 @@ we introduce an innovative Multi-Kernel Kronecker Adaptation with Re-Scaling Tra
 - Python 3.11.9
 - torch 2.3.0
 - timm 0.9.16
+- avalanche-lib 0.5.0
 
 ## Data Preparation
 
