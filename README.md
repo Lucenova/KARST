@@ -1,7 +1,7 @@
 # KARST
 [ICASSP 2025] KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification
 
-*Pytorch implementation for ICASSP 2025 paper of [**"KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification"**](https://arxiv.org/)*
+*Pytorch implementation for ICASSP 2025 paper of [**"KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification"**](https://arxiv.org/abs/2502.06779)*
 
 ## Introduction
 
